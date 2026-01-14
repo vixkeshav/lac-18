@@ -18,7 +18,6 @@ main{
     grid-template-rows: 70px 1fr 1fr;
     grid-gap:20px;
     padding: 20px;
-    margin: 10px;
     grid-template-areas: "header header header"
                         "section section section"
                         "div1 div2 div3";
